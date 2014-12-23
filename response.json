@@ -3,122 +3,146 @@
         {
             "id": 1,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/1.jpg",
-            "title": "Sphinx"
+            "title": "Sphinx",
+            "user" : 1
         },
         {
             "id": 2,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/2.jpg",
-            "title": "Monte Carlo"
+            "title": "Monte Carlo",
+            "user" : 2
         },
         {
             "id": 3,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/3.jpg",
-            "title": "Oscar Pi"
+            "title": "Oscar Pi",
+            "user" : 3
         },
         {
             "id": 4,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/4.jpg",
-            "title": "Yellow podium"
+            "title": "Yellow podium",
+            "user" : 2
         },
         {
             "id": 5,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/5.jpg",
-            "title": "Death by Chocolate"
+            "title": "Death by Chocolate",
+            "user" : 4
         },
         {
             "id": 6,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/6.jpg",
-            "title": "Hunger Games: Mocking Jay"
+            "title": "Hunger Games: Mocking Jay",
+            "user" : 1
         },
         {
             "id": 7,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/7.jpg",
-            "title": "Sherlock Holmes: A game of shadows"
+            "title": "Sherlock Holmes: A game of shadows",
+            "user" : 4
         },
         {
             "id": 8,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/8.jpg",
-            "title": "Udaipur - City of Lakes"
+            "title": "Udaipur - City of Lakes",
+            "user" : 3
         },
         {
             "id": 9,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/9.jpg",
-            "title": "Batman : The Dark Knight Rises"
+            "title": "Batman : The Dark Knight Rises",
+            "user" : 4
         },
         {
             "id": 10,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/10.jpg",
-            "title": "PK"
+            "title": "PK",
+            "user" : 2
         },
         {
             "id": 11,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/11.jpg",
-            "title": "Dominos Pizza"
+            "title": "Dominos Pizza",
+            "user" : 3
         },
         {
             "id": 12,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/12.jpg",
-            "title": "A Tale of two Shadows"
+            "title": "A Tale of two Shadows",
+            "user" : 4
         },
         {
             "id": 13,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/13.jpg",
-            "title": "Die another day"
+            "title": "Die another day",
+            "user" : 2
         },
         {
             "id": 14,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/14.jpg",
-            "title": "Blood Diamond"
+            "title": "Blood Diamond",
+            "user" : 3
         },
         {
             "id": 15,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/15.jpg",
-            "title": "Inception"
+            "title": "Inception",
+            "user" : 3
         },
         {
             "id": 16,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/16.jpg",
-            "title": "Sphinx"
+            "title": "Sphinx",
+            "user" : 2
         },
         {
             "id": 17,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/17.jpg",
-            "title": "The mask"
+            "title": "The mask",
+            "user" : 4
         },
         {
             "id": 18,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/18.jpg",
-            "title": "McVeggie Burger"
+            "title": "McVeggie Burger",
+            "user" : 3
         },
         {
             "id": 19,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/19.jpg",
-            "title": "SpiderMan -2"
+            "title": "SpiderMan -2",
+            "user" : 1
         },
         {
             "id": 20,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/20.jpg",
-            "title": "Step up"
+            "title": "Step up",
+            "user" : 2
         },
         {
             "id": 21,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/21.jpg",
-            "title": "Fury"
+            "title": "Fury",
+            "user" : 4
         },
         {
             "id": 22,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/22.jpg",
-            "title": "Let there be Light!"
+            "title": "Let there be Light!",
+            "user" : 2
         },
         {
             "id": 23,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/23.jpg",
-            "title": "Totally awake:"
+            "title": "Totally awake:",
+            "user" : 3
         },
         {
             "id": 24,
             "url": "https://raw.githubusercontent.com/rish2cool/IOSChallenge/master/images/24.jpg",
-            "title": "Being Enterpreneurial"
+            "title": "Being Enterpreneurial",
+            "user" : 3
         }
     ]
 }
